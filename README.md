@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 <h3 align="center">A passionate Advanced Data Analyst from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilsharma13" alt="sahilsharma13" /></a> </p>
-
 - 🔭 I’m currently working on [Student Performance(Score Predictor)](https://github.com/SahilSharma13/Student-Performance--End-to-End-ML-Model-with-Deployment)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
